@@ -1,0 +1,8 @@
+name: Insomnia
+main: net.omnicrash.insomnia.Plugin
+api-version: 1.14
+version: 1.0
+author: Omnicrash
+website: https://github.com/omnicrash/Insomnia
+description: Sleep tight every night
+commands: 
