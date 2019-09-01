@@ -1,0 +1,16 @@
+general:
+  # Use default skipping behavior
+  default-day-skip: false
+  # Fast forward time by this many hours, decimals are supported
+  # Supported formats:
+  # - Fixed amount, ex: [6.5]
+  # - Randomized range, ex: [4, 7]
+  time-skip-hours: [4, 7]
+  # Allow sleeping during the day
+  allow-day-sleep: true
+  # Food cost per heart healed during sleep, set to 0 to disable
+  food-cost-percentage: 0.4
+  # The amount of in-game hours that players will have to wait after sleeping before they can do so again
+  sleep-cooldown-hours: 6
+  # The amount of in-game minutes that players will have to wait after napping (exiting the bed early) before they can do so again
+  nap-cooldown-minutes: 15
